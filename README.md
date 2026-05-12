@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm Balamrugan Purushothaman👋
+
+# AI engineer who is focused on building decision intelligent systems using LLMs, applied machine learning and backend engineering.
+
+
+Currently building production-style AI systems in fintech & IoT involving:
+-risk intelligence
+-LLM-to-SQL Architecture
+-agentic AI pipelines
+-explainable decision systems
+
+
 
 <!--
 **Balamurugan7781/Balamurugan7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
