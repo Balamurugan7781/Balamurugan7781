@@ -227,5 +227,5 @@ balamurugan2001viruda@gmail.com
 ---
 
 <p align="center">
-Building AI systems that help organisations make better decisions.
+Current flagship project: AI-Powered FinTech Decision Intelligence System — combining risk modelling, profitability analysis, decision logic, and natural language analytics.
 </p>
