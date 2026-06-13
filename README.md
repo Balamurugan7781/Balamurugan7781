@@ -6,7 +6,8 @@ AI Engineer • Decision Intelligence Systems • FinTech & Applied AI
 
 <p align="center">
 Engineering domain-adaptable AI decision systems that connect machine learning, business logic, and LLM-powered analytics into explainable workflows.
-      Current flagship project: AI-Powered FinTech Decision Intelligence System — combining risk modelling, profitability analysis, decision logic, and natural language analytics.
+      
+Current flagship project: AI-Powered FinTech Decision Intelligence System — combining risk modelling, profitability analysis, decision logic, and natural language analytics.
 </p>
 
 ---
